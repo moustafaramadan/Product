@@ -18,7 +18,9 @@ header .overlay {
 header .brand {
     padding-top: 42px;
 }
-
+.container{
+        overflow: hidden;
+}
 @font-face {
     font-family: cairo;
     src: url('../fonts/Cairo-Regular.ttf');
