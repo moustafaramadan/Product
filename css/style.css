@@ -19,7 +19,7 @@ header .brand {
     padding-top: 42px;
 }
 .container{
-    overflow: hidden;
+    overflow: hidden !important;
 }
 @font-face {
     font-family: cairo;
