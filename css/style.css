@@ -26,7 +26,7 @@ header .brand {
     padding-right: calc(var(--bs-gutter-x) * .5);
     margin-left: auto;
     margin-right: auto;
-    overflow: hidden;
+    overflow: hidden !important;
 }
 @font-face {
     font-family: cairo;
