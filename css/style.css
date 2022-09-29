@@ -19,7 +19,7 @@ header .brand {
     padding-top: 42px;
 }
 .container{
-        overflow: hidden;
+    overflow: hidden;
 }
 @font-face {
     font-family: cairo;
@@ -445,10 +445,10 @@ footer .copy-right{
 
 }
 @media (max-width: 400px) {
-    .container{
+    /* .container{
         overflow: hidden;
     
-     }
+     } */
      header .product {
         position: relative;
         margin-right: 206px;
