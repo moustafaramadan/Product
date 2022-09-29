@@ -20,13 +20,7 @@ header .brand {
 }
 .container{
     overflow: hidden;
-    --bs-gutter-x: 1.5rem;
-    --bs-gutter-y: 0;
-    width: 100%;
-    padding-left: calc(var(--bs-gutter-x) * .5);
-    padding-right: calc(var(--bs-gutter-x) * .5);
-    margin-left: auto;
-    margin-right: auto;}
+}
 @font-face {
     font-family: cairo;
     src: url('../fonts/Cairo-Regular.ttf');
