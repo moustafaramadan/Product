@@ -442,7 +442,7 @@ footer .copy-right{
 }
 
 }
-@media (max-width: 400px) {
+@media (max-width: 350px) {
     .container{
         overflow: hidden;
     
