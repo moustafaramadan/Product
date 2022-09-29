@@ -442,3 +442,9 @@ footer .copy-right{
 }
 
 }
+@media (max-width <576px) {
+    header{
+        overflow: hidden;
+    
+     }
+}
